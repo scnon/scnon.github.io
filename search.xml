@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[godot_00]]></title>
+      <title><![CDATA[-Godot- Godot GameEngine 简介]]></title>
       <url>/2017/12/23/godot-00/</url>
       <content type="html"><![CDATA[<p>About Godot</p>
 <p><a href="https://travis-ci.org/godotengine/godot" target="_blank" rel="noopener"><img src="https://travis-ci.org/godotengine/godot.svg?branch=master" alt="Travis Build Status"></a><br><a href="https://ci.appveyor.com/project/akien-mga/godot" target="_blank" rel="noopener"><img src="https://ci.appveyor.com/api/projects/status/bfiihqq6byxsjxxh/branch/master?svg=true" alt="AppVeyor Build Status"></a><br><a href="https://www.codetriage.com/godotengine/godot" target="_blank" rel="noopener"><img src="https://www.codetriage.com/godotengine/godot/badges/users.svg" alt="Code Triagers Badge"></a></p>
