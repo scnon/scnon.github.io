@@ -3,21 +3,44 @@
   
     
     <entry>
-      <title><![CDATA[-KBEngine- KBEngine 简介]]></title>
-      <url>/2017/12/23/kbengine-00/</url>
-      <content type="html"><![CDATA[<p>关于 KBEngine </p>
+      <title><![CDATA[godot_00]]></title>
+      <url>/2017/12/23/godot-00/</url>
+      <content type="html"><![CDATA[<p>About Godot</p>
+<p><a href="https://travis-ci.org/godotengine/godot" target="_blank" rel="noopener"><img src="https://travis-ci.org/godotengine/godot.svg?branch=master" alt="Travis Build Status"></a><br><a href="https://ci.appveyor.com/project/akien-mga/godot" target="_blank" rel="noopener"><img src="https://ci.appveyor.com/api/projects/status/bfiihqq6byxsjxxh/branch/master?svg=true" alt="AppVeyor Build Status"></a><br><a href="https://www.codetriage.com/godotengine/godot" target="_blank" rel="noopener"><img src="https://www.codetriage.com/godotengine/godot/badges/users.svg" alt="Code Triagers Badge"></a></p>
 ]]></content>
       
         <categories>
             
-            <category> kbengine </category>
+            <category> Godot </category>
             
         </categories>
         
         
         <tags>
             
-            <tag> kbengine </tag>
+            <tag> -- Godot </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[-KBEngine- KBEngine 简介]]></title>
+      <url>/2017/12/23/kbengine-00/</url>
+      <content type="html"><![CDATA[<p>KBEngine <a href="http://kbengine.org" target="_blank" rel="noopener">官网</a> <a href="http://bbs.kbengine.org" target="_blank" rel="noopener">论坛</a><br>一款开源的游戏服务端引擎，客户端通过简单的约定协议就能与服务端通讯，使用KBEngine插件能够快速与(Unity3D、UE4、OGRE、HTML5、等等)技术结合形成一个完整的客户端。 服务端底层框架使用C++编写，游戏逻辑层使用Python(支持热更<br>新)，开发者无需重复的实现一些游戏服务端通用的底层技术，将精力真正集中到游戏开发层面上来，快速的打造各种网络游戏。</p>
+<p><a href="http://github.com/kbengine/kbengine" target="_blank" rel="noopener">github</a><br><a href="https://travis-ci.org/kbengine/kbengine" target="_blank" rel="noopener"><img src="https://travis-ci.org/kbengine/kbengine.svg" alt="Build Status"></a><br><a href="https://ci.appveyor.com/project/kbengine/kbengine/branch/master" target="_blank" rel="noopener"><img src="https://ci.appveyor.com/api/projects/status/github/kbengine/kbengine?branch=master&amp;svg=true" alt="Appveyor (Windows) Build  Status"></a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> KBEngine </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> KBEngine </tag>
             
         </tags>
         
